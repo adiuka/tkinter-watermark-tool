@@ -9,3 +9,5 @@ Next on the agenda:
 3. Add functionality that allows you to specify the save path.
 4. Implement logo scaling logic based on image size
 5. Add customizable functionality for fonts, color etc.
+
+![hippo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l5eHpieWxnNGdqMmR3MDY4ODY3bTAzZjEwNGdpY3huNm15ZHQyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UXcGjWDQmlijwDE7Wd/giphy.gif)

@@ -89,7 +89,7 @@ class StartPage(tk.Frame):
         label.pack(side='top', fill='x', pady=10)
         # CANVAS CONFIG #
         canvas = tk.Canvas(self, width=256, height=275, highlightthickness=0)
-        self.start_image = tk.PhotoImage(file='./assets/watermark funny_modified.png')
+        self.start_image = tk.PhotoImage(file='./assets/start-image.png')
         canvas.create_image(128, 137, image=self.start_image)
         canvas.pack(padx=10, pady=10)
         # BUTTONS #
